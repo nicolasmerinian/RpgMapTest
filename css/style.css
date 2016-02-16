@@ -1,0 +1,27 @@
+body {
+	background-color: #fff;
+}
+
+#container {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	width : 640px;
+	height : 480px;
+	border : 1px solid #333;
+	background : #EEF;
+	text-align : center;
+	-moz-box-shadow : 0 0 5px 5px #BFA;
+	-webkit-box-shadow : 0 0 5px 5px #BFA;
+	box-shadow : 0 0 5px 5px #BFA;
+}
+
+canvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+};
